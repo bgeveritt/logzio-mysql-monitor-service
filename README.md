@@ -2,7 +2,7 @@
 
 #### Instructions (RHEL/CentOS 6):
 
-* Download `logzio-db-monitor.sh` and `logzio-db-monitor`
+* [Download] `logzio-db-monitor.sh` and `logzio-db-monitor`
 
 * Place `logzio-db-monitor.sh` in `/usr/bin/`
 
@@ -27,3 +27,5 @@
 
   * `/var/log/logzio/logzio-mysql-monitor.log`
   * `/var/log/logzio/logzio-mysql-monitor-error.log`
+  
+[Download]: https://github.com/bgeveritt/logzio-mysql-monitor-service/releases/download/1.0/logzio-db-monitor.zip
